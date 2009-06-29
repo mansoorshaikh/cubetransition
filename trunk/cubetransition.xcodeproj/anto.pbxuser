@@ -157,6 +157,7 @@
 			EA7080480FF919CF00B61B0A /* PBXTextBookmark */ = EA7080480FF919CF00B61B0A /* PBXTextBookmark */;
 			EA70804B0FF919FE00B61B0A /* PBXTextBookmark */ = EA70804B0FF919FE00B61B0A /* PBXTextBookmark */;
 			EA70804F0FF91A2E00B61B0A /* PBXTextBookmark */ = EA70804F0FF91A2E00B61B0A /* PBXTextBookmark */;
+			EA7080510FF91B8800B61B0A /* PBXTextBookmark */ = EA7080510FF91B8800B61B0A /* PBXTextBookmark */;
 		};
 		sourceControlManager = EA707EB90FF8F9F900B61B0A /* Source Control */;
 		userBuildSettings = {
@@ -206,9 +207,9 @@
 	};
 	EA707F0D0FF8FE5400B61B0A /* GlobalViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1146, 2000}}";
-			sepNavSelRange = "{2799, 0}";
-			sepNavVisRange = "{2068, 1573}";
+			sepNavIntBoundsRect = "{{0, 0}, {1097, 1856}}";
+			sepNavSelRange = "{265, 0}";
+			sepNavVisRange = "{0, 839}";
 		};
 	};
 	EA707F400FF8FF2300B61B0A /* PlistBookmark */ = {
@@ -453,7 +454,7 @@
 		fRef = EA707F0D0FF8FE5400B61B0A /* GlobalViewController.m */;
 		name = "GlobalViewController.m: 45";
 		rLen = 0;
-		rLoc = 4223;
+		rLoc = 3836;
 		rType = 0;
 		vrLen = 754;
 		vrLoc = 1051;
@@ -543,7 +544,7 @@
 		fRef = EA707F0D0FF8FE5400B61B0A /* GlobalViewController.m */;
 		name = "GlobalViewController.m: 45";
 		rLen = 0;
-		rLoc = 4223;
+		rLoc = 3836;
 		rType = 0;
 		vrLen = 754;
 		vrLoc = 1051;
@@ -573,7 +574,7 @@
 		comments = "error: request for member 'myContentPanel' in something not a structure or union";
 		fRef = EA707F0D0FF8FE5400B61B0A /* GlobalViewController.m */;
 		rLen = 1;
-		rLoc = 35;
+		rLoc = 26;
 		rType = 1;
 	};
 	EA707F9A0FF912D300B61B0A /* PBXTextBookmark */ = {
@@ -611,7 +612,7 @@
 		fRef = EA707F0D0FF8FE5400B61B0A /* GlobalViewController.m */;
 		name = "GlobalViewController.m: 36";
 		rLen = 0;
-		rLoc = 1123;
+		rLoc = 736;
 		rType = 0;
 		vrLen = 874;
 		vrLoc = 767;
@@ -621,7 +622,7 @@
 		fRef = EA707F0D0FF8FE5400B61B0A /* GlobalViewController.m */;
 		name = "GlobalViewController.m: 36";
 		rLen = 0;
-		rLoc = 1123;
+		rLoc = 736;
 		rType = 0;
 		vrLen = 937;
 		vrLoc = 767;
@@ -681,7 +682,7 @@
 		fRef = EA707F0D0FF8FE5400B61B0A /* GlobalViewController.m */;
 		name = "GlobalViewController.m: 45";
 		rLen = 0;
-		rLoc = 4223;
+		rLoc = 3836;
 		rType = 0;
 		vrLen = 754;
 		vrLoc = 1051;
@@ -701,7 +702,7 @@
 		fRef = EA707F0D0FF8FE5400B61B0A /* GlobalViewController.m */;
 		name = "GlobalViewController.m: 45";
 		rLen = 0;
-		rLoc = 4223;
+		rLoc = 3836;
 		rType = 0;
 		vrLen = 1030;
 		vrLoc = 623;
@@ -831,7 +832,7 @@
 		fRef = EA707F0D0FF8FE5400B61B0A /* GlobalViewController.m */;
 		name = "GlobalViewController.m: 64";
 		rLen = 0;
-		rLoc = 3867;
+		rLoc = 3480;
 		rType = 0;
 		vrLen = 973;
 		vrLoc = 2010;
@@ -841,7 +842,7 @@
 		fRef = EA707F0D0FF8FE5400B61B0A /* GlobalViewController.m */;
 		name = "GlobalViewController.m: 49";
 		rLen = 0;
-		rLoc = 1966;
+		rLoc = 1579;
 		rType = 0;
 		vrLen = 1332;
 		vrLoc = 1274;
@@ -861,7 +862,7 @@
 		fRef = EA707F0D0FF8FE5400B61B0A /* GlobalViewController.m */;
 		name = "GlobalViewController.m: 79";
 		rLen = 0;
-		rLoc = 3867;
+		rLoc = 3480;
 		rType = 0;
 		vrLen = 1391;
 		vrLoc = 2429;
@@ -871,7 +872,7 @@
 		fRef = EA707F0D0FF8FE5400B61B0A /* GlobalViewController.m */;
 		name = "GlobalViewController.m: 79";
 		rLen = 0;
-		rLoc = 3867;
+		rLoc = 3480;
 		rType = 0;
 		vrLen = 1366;
 		vrLoc = 2454;
@@ -891,7 +892,7 @@
 		fRef = EA707F0D0FF8FE5400B61B0A /* GlobalViewController.m */;
 		name = "GlobalViewController.m: 68";
 		rLen = 0;
-		rLoc = 2965;
+		rLoc = 2578;
 		rType = 0;
 		vrLen = 1301;
 		vrLoc = 2619;
@@ -901,7 +902,7 @@
 		fRef = EA707F0D0FF8FE5400B61B0A /* GlobalViewController.m */;
 		name = "GlobalViewController.m: 64";
 		rLen = 0;
-		rLoc = 2681;
+		rLoc = 2294;
 		rType = 0;
 		vrLen = 1477;
 		vrLoc = 2061;
@@ -911,7 +912,7 @@
 		fRef = EA707F0D0FF8FE5400B61B0A /* GlobalViewController.m */;
 		name = "GlobalViewController.m: 44";
 		rLen = 0;
-		rLoc = 1482;
+		rLoc = 1095;
 		rType = 0;
 		vrLen = 1455;
 		vrLoc = 1269;
@@ -921,7 +922,7 @@
 		fRef = EA707F0D0FF8FE5400B61B0A /* GlobalViewController.m */;
 		name = "GlobalViewController.m: 44";
 		rLen = 0;
-		rLoc = 1482;
+		rLoc = 1095;
 		rType = 0;
 		vrLen = 1349;
 		vrLoc = 2676;
@@ -931,7 +932,7 @@
 		fRef = EA707F0D0FF8FE5400B61B0A /* GlobalViewController.m */;
 		name = "GlobalViewController.m: 118";
 		rLen = 0;
-		rLoc = 4413;
+		rLoc = 4026;
 		rType = 0;
 		vrLen = 317;
 		vrLoc = 4341;
@@ -941,7 +942,7 @@
 		fRef = EA707F0D0FF8FE5400B61B0A /* GlobalViewController.m */;
 		name = "GlobalViewController.m: 121";
 		rLen = 0;
-		rLoc = 4628;
+		rLoc = 4241;
 		rType = 0;
 		vrLen = 425;
 		vrLoc = 4062;
@@ -951,7 +952,7 @@
 		fRef = EA707F0D0FF8FE5400B61B0A /* GlobalViewController.m */;
 		name = "GlobalViewController.m: 69";
 		rLen = 0;
-		rLoc = 2870;
+		rLoc = 2483;
 		rType = 0;
 		vrLen = 1312;
 		vrLoc = 2432;
@@ -961,7 +962,7 @@
 		fRef = EA707F0D0FF8FE5400B61B0A /* GlobalViewController.m */;
 		name = "GlobalViewController.m: 57";
 		rLen = 0;
-		rLoc = 2255;
+		rLoc = 1868;
 		rType = 0;
 		vrLen = 1516;
 		vrLoc = 1164;
@@ -971,7 +972,7 @@
 		fRef = EA707F0D0FF8FE5400B61B0A /* GlobalViewController.m */;
 		name = "GlobalViewController.m: 65";
 		rLen = 0;
-		rLoc = 2681;
+		rLoc = 2294;
 		rType = 0;
 		vrLen = 1644;
 		vrLoc = 1733;
@@ -981,7 +982,7 @@
 		fRef = EA707F0D0FF8FE5400B61B0A /* GlobalViewController.m */;
 		name = "GlobalViewController.m: 68";
 		rLen = 0;
-		rLoc = 2799;
+		rLoc = 2412;
 		rType = 0;
 		vrLen = 1435;
 		vrLoc = 2068;
@@ -991,9 +992,19 @@
 		fRef = EA707F0D0FF8FE5400B61B0A /* GlobalViewController.m */;
 		name = "GlobalViewController.m: 68";
 		rLen = 0;
-		rLoc = 2799;
+		rLoc = 2412;
 		rType = 0;
 		vrLen = 1573;
 		vrLoc = 2068;
+	};
+	EA7080510FF91B8800B61B0A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EA707F0D0FF8FE5400B61B0A /* GlobalViewController.m */;
+		name = "GlobalViewController.m: 15";
+		rLen = 0;
+		rLoc = 265;
+		rType = 0;
+		vrLen = 839;
+		vrLoc = 0;
 	};
 }
